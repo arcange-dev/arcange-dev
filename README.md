@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm arcange dev</h1>
-<h3 align="center">a hardware and software developer</h3>
+<h3 align="center">A Hardware And Software Developer</h3>
 
-- 🔭 I’m currently working on **web development projects**
+- 🔭 I’m currently working on **web development projects, mobile aplication, pc application and embedded systems projects**
 
 - 🌱 I’m currently learning **computer systems and architecture**
 
-- 👯 I’m looking to collaborate on **web development jobs**
+- 👯 I’m looking to collaborate on **Web Development Jobs And Hardware Jobs**
 
 - 👨‍💻 All of my projects are available at [arcange-portfolio.vercel.app](arcange-portfolio.vercel.app)
 
-- 💬 Ask me about **web development ,ai ,c ,c++ ,python**
+- 💬 Ask me about **Web Development ,AI Engineering ,C ,C++ ,Python, Cybersecurity**
 
 - 📫 How to reach me **mukamyiizerearcange@gmail.com**
 
