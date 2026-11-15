@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Arcange: Hardware &amp; Software Developer. From Silicon to Software." src="assets/arcange-github-banner.svg" width="100%">
+  <img alt="Arcange Dev Animated Banner" src="assets/arcange-github-banner.gif" width="100%">
 </div>
 
 ### Building across hardware, software and intelligent systems.
