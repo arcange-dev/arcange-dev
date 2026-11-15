@@ -211,7 +211,7 @@ An evolving path, not a finished one. I am building foundations across both soft
 <p align="center">
   <a href="https://github.com/arcange-dev"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mukamyi-izere-arcange"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://kaggle.com/arcange9"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=22D3EE"></a>
+  <a href="https://www.kaggle.com/mukamyiizerearcange"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=22D3EE"></a>
   <a href="https://www.youtube.com/@nextbitnews"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://instagram.com/arcangegram"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.facebook.com/arcange.froky"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white"></a>
