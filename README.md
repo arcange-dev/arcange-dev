@@ -1,10 +1,6 @@
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Arcange, hardware and software developer" src="assets/banner-dark.svg" width="100%">
-</picture>
+  <img alt="Arcange: Hardware &amp; Software Developer. From Silicon to Software." src="assets/arcange-github-banner.svg" width="100%">
+</div>
 
 ### Building across hardware, software and intelligent systems.
 
